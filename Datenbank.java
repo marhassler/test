@@ -15,7 +15,7 @@ public class Datenbank
      * Hier werden die Serien gespeichert
      */
     private ArrayList<TVShows> showList = new ArrayList<>();
-
+//Hier hat sich ein Kommentar eingeschlichen, mfg Nico1300
     public Datenbank() 
     {
         
