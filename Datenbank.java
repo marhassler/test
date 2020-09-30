@@ -1,4 +1,3 @@
-package ide_uebung;
 
 import java.util.ArrayList;
 

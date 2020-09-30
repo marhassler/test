@@ -1,4 +1,3 @@
-package ide_uebung;
 
 /**
  * Hier werden die Serien definiert
